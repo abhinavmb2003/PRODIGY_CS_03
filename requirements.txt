@@ -1,0 +1,10 @@
+# PassGuard has no third-party dependencies.
+# Only Python standard library modules are used:
+#   - tkinter  (GUI)
+#   - re       (regex pattern matching)
+#   - math     (entropy calculation)
+#
+# Ensure Python 3.6+ is installed.
+# On Linux, tkinter may need a separate install:
+#   sudo apt install python3-tk        # Debian/Ubuntu
+#   sudo dnf install python3-tkinter   # Fedora
